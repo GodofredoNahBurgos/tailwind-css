@@ -6,7 +6,14 @@ module.exports = {
       colors: {
         'azul-claro': '#243cff',
       'azul-oscuro': '#0d1b3e',
-      }
+      },
+      //Solo para el ancho
+      width: {
+        '42': '170px'
+      },
+      //spacing: {
+        //'42': '170px'
+      //}
     },
   },
   plugins: [],
